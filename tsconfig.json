@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "lib": [
+            "es2016",
+            "es2015",
+            "es2017",
+            "es2015.collection"
+        ],
+        "mapRoot": "./",
+        "module": "es6",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "target": "es6",
+        "outDir": "./",
+        "watch": true
+    },
+    "files": [
+        "index.ts",
+        "test2.ts"
+    ]
+}

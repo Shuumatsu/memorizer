@@ -1,0 +1,26 @@
+{
+    "name": "memorizer",
+    "version": "0.1.0",
+    "description": "memorize function decorator",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VanishingDante/memorizer.git"
+    },
+    "keywords": [
+        "memorizer"
+    ],
+    "author": "vanis",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VanishingDante/memorizer/issues"
+    },
+    "homepage": "https://github.com/VanishingDante/memorizer#readme",
+    "devDependencies": {
+        "typescript": "^2.0.3"
+    }
+}
