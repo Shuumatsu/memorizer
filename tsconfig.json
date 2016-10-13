@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "declaration": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "lib": [
@@ -17,7 +18,6 @@
         "watch": true
     },
     "files": [
-        "index.ts",
-        "test2.ts"
+        "index.ts"
     ]
 }
