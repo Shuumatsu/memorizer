@@ -1,5 +1,5 @@
 ```
-npm install --save memorizer
+npm install --save result-memorizer
 ```
 
 # memorizer
